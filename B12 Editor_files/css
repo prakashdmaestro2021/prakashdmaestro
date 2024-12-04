@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=pxiEyp8kv8JHgFVrFJXMbXsEVLLDAQQL-j388asu7RTBqEwQv8Hn9w8L&skey=87759fb096548f6d&v=v21) format('woff2');
-}
